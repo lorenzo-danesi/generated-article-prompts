@@ -24,7 +24,7 @@ Lexica.art：
 
 - No Lexica.art utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-Angular
+Letter "A" red color sci-fi style with luminous border
 
 ## 👨🏻‍💻 Desenvolvedor
 <p>
