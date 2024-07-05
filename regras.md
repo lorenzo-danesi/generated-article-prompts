@@ -1,22 +1,22 @@
 # CHECKLIST DE PARA GERARA ARTIGOS DE QUALIDADE
-- [ ] Definir o assunto
-- [ ] TÌtulo chamativo: headline
-- [ ] Imagem de capa chamativa
-- [ ] Blocos do artigo
+- [x] Definir o assunto
+- [x] T√≠tulo chamativo: headline
+- [x] Imagem de capa chamativa
+- [x] Blocos do artigo
 - [ ] Postar o artigo com um call to action
 
 ## Assunto:
    Angular - Diretivas
 
-## TÌtulo
-Potencializando suas aplicaÁıes com diretivas estruturais e atributivas 
-no Angular: Um guia pr·tico
+## T√≠tulo
+Potencializando suas aplica√ß√µes com diretivas estruturais e atributivas 
+no Angular: Um guia pr√°tico
 
 Diretivas estruturais versus diretivas de atributo: 
 Qual usar no Angular?
 
 ## Capa
-Feito com Lexica.art e Power Point
+Feito com Lexica.art e PowerPoint
 
 ## Blocos
 
@@ -25,18 +25,14 @@ e escreva o Artigo atendendo as regras abaixo
 
 {REGRAS}
 
-> No m·ximo 5 linhas por blocos de explicaÁ„o
-> Me explique de maneira informal, como se eu fosse uma
-crianÁa de 10 anos
-> Os blocos que ser„o criados est„o abaixo:
-
-- O que s„o diretivas no Angular
-- O que s„o diretivas estruturais
-  - Cite exemplos com cÛdigo de diretivas estruturais
-- O que s„o diretivas atributivas
-  - Cite exemplos com cÛdigo de diretivas atributivas
-- FaÁa um call to action para as minhas redes sociais
-- Coloque 3 hashtags que faÁam sentido
-
-IlustraÁıes de capa: gerada pela Lexica.art
-Conte˙do gerado por: ChatGPT e revisıes humanas
+- No m√°ximo 5 linhas por blocos de explica√ß√£o
+- Me explique de maneira informal, como se eu fosse uma
+crian√ßa de 10 anos
+- Os blocos que ser√£o criados est√£o abaixo:
+  - O que s√£o diretivas no Angular
+  - O que s√£o diretivas estruturais
+    - Cite exemplos com c√≥digo de diretivas estruturais
+  - O que s√£o diretivas atributivas
+    - Cite exemplos com c√≥digo de diretivas atributivas
+  - Fa√ßa um call to action para as minhas redes sociais
+  - Coloque 3 hashtags que fa√ßam sentido

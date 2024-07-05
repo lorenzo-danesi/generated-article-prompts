@@ -18,15 +18,15 @@ ChatGPT：
 |   Ação   | prompt |
 | :------: | ------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código <br> {REGRAS} <br> Explique sempre de uma maneira simples <br> Deixe o texto enxuto <br> Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código <br> {REGRAS} <br> > Explique sempre de uma maneira simples <br> > Deixe o texto enxuto <br> > Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No Lexica.art utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
 Angular
 
-## 👨‍💻 Desenvolvedor
+## 👨🏻‍💻 Desenvolvedor
 <p>
     <img 
       align=left 

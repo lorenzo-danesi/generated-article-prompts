@@ -1,4 +1,4 @@
-### O que são diretivas
+### O que são diretivas no Angular
 
 Diretivas no Angular são como superpoderes que você dá aos elementos do HTML. Elas ajudam a mudar o comportamento ou a aparência desses elementos. Pense nelas como etiquetas mágicas que dizem ao Angular o que fazer com uma parte específica da sua página.
 
@@ -22,9 +22,9 @@ Este outro exemplo cria uma lista com itens. Ele repete o `<li>` para cada item 
 
 #### Exemplos de diretivas estruturais
 
-- `*ngIf`: Mostra ou esconde um elemento com base em uma condi��o booleana.
+- `*ngIf`: Mostra ou esconde um elemento com base em uma condição booleana.
 - `*ngFor`: Repete um elemento para cada item em uma lista.
-- `*ngSwitch`: Exibe um dos vários elementos com base em uma express�o.
+- `*ngSwitch`: Exibe um dos vários elementos com base em uma expressão.
 - `*ngSwitchCase`: Define um caso dentro de uma estrutura `ngSwitch`.
 - `*ngSwitchDefault`: Define o caso padrão para uma estrutura `ngSwitch`.
 
