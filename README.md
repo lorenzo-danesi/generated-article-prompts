@@ -18,7 +18,7 @@ ChatGPT：
 |   Ação   | prompt |
 | :------: | ------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código <br> {REGRAS} <br> > Explique sempre de uma maneira simples <br> > Deixe o texto enxuto <br> > Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
+| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o Artigo atendendo as regras abaixo <br> {REGRAS} <br> > No máximo 5 linhas por blocos de explicação <br> > Me explique de maneira informal, como se eu fosse uma criança de 10 anos <br> > Os blocos que serão criados estão abaixo: <br> - O que são diretivas no Angular<br> - O que são diretivas estruturais <br> - Cite exemplos com código de diretivas estruturais <br> - O que são diretivas atributivas <br> - Cite exemplos com código de diretivas atributivas <br> - Faça um call to action para as minhas redes sociais <br> - Coloque 3 hashtags que façam sentido |
 
 Lexica.art：
 
