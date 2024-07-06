@@ -25,6 +25,10 @@ Lexica.art：
 - No Lexica.art utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
 Letter "A" red color sci-fi style with luminous border
+<br>Red CYBERPUNK
+<br>Developer red neon
+
+Para ler o artigo completo [clique aqui](https://web.dio.me/articles/diretivas-estruturais-e-atributivas-um-guia-pratico?back=%2Farticles&page=1&order=oldest).
 
 ## 👨🏻‍💻 Desenvolvedor
 <p>
